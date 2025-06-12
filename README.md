@@ -40,7 +40,7 @@ Below is a graph visualization with node sizes scaled by PageRank scores and dir
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Python 3.11**
 - [NetworkX](https://networkx.org/) – for graph modeling and PageRank algorithm
@@ -48,7 +48,7 @@ Below is a graph visualization with node sizes scaled by PageRank scores and dir
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
